@@ -1,2 +1,3 @@
 # Week6_Testing_Practise
-My and Yegana practising tessting
+Julija and Yegana practising testing here
+
