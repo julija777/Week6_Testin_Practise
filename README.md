@@ -1,2 +1,2 @@
-# Week6_Testin_Practise
+# Week6_Testing_Practise
 My and Yegana practising tessting
